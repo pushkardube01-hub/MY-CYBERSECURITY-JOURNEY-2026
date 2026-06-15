@@ -2,7 +2,7 @@
 
 **TryHackMe Pre Security Path**
 
-I have completed all the **accessible free modules** of the Pre Security path on TryHackMe.  
+I have completed all the **accessible free modules** of the Pre Security path on TryHackMe.
 
 This includes fundamentals of:
 - Networking
