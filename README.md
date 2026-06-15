@@ -3,6 +3,7 @@
 **TryHackMe Pre Security Path**
 
 I have completed all the **accessible free modules** of the Pre Security path on TryHackMe.  
+
 This includes fundamentals of:
 - Networking
 - Web Technologies  
@@ -17,5 +18,6 @@ All screenshots of completed rooms are available in the [`screenshots/` folder](
 
 ---
 
-I am highly motivated to build a career in ethical hacking and cybersecurity.  
-Actively preparing for the **IIT Kanpur BCyber** admission process (July 2026).
+I am highly motivated to pursue a career in ethical hacking and cybersecurity.  
+
+Actively preparing for the **IIT Kanpur BCyber** admission hackathon (July 2026).
